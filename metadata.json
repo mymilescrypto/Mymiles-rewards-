@@ -1,0 +1,16 @@
+{
+  "name": "MyMiles",
+  "symbol": "MYMILES",
+  "description": "MyMiles is a Solana rewards token: let your cashback multiply.",
+  "image": "https://raw.githubusercontent.com/mymilescrypto/Mymiles-rewards-/main/logo.png",
+  "extensions": {
+    "website": "https://mymiles.in",
+    "twitter": "https://twitter.com/mymilescrypto",
+    "telegram": "https://t.me/mymilescrypto",
+    "github": "https://github.com/mymilescrypto"
+  },
+  "tags": ["rewards", "utility", "solana"],
+  "creator": "AkrkXKtpkifsnZVjTYkVvY6kKaMPMaFQkywauuxwyzGV",
+  "address": "CfCNu8AP7FvBzuzmbuQSdyn7Kw5wVArZAfdhgmWM5QaX",
+  "decimals": 9
+}
